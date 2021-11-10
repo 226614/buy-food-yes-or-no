@@ -16,8 +16,10 @@ button{
     height:100px;
     width:100px;
     font-size:25px;
-    
+    cursor:pointer;
+    border-color:black;
 }
+
 .no{
     margin:0 auto;
     background:red;
@@ -26,3 +28,21 @@ button{
 .yes{
     background:teal;
 }
+
+div{
+    border-color:black;
+    border-style: solid ;
+}
+.no-page{
+    height:100%;
+    width:100%;
+    background-color:red;
+    margin:0 auto;
+    padding:0 auto;
+}
+.yes-page{
+    height:100%;
+    width:100%;
+    background-color:teal;
+}
+
