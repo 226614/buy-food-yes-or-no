@@ -11,6 +11,11 @@ h1{
     
 }
 
+img{
+    padding:10px;
+    padding-bottom: 20px;
+}
+
 /*!--Button--*/
 button{
     height:100px;
@@ -23,10 +28,12 @@ button{
 .no{
     margin:0 auto;
     background:red;
+    margin-right:10px;
 }
 
 .yes{
     background:teal;
+    margin-left:10px;
 }
 
 div{
